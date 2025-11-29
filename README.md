@@ -11,10 +11,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/grkmfdn" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="35" alt="linkedin" />
   </a>
   <a href="mailto:grkmfdn55@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="35" alt="gmail" />
   </a>
 </div>
 
@@ -34,19 +34,40 @@ Sadece kod yazmayı değil, **uyumlu bir ekip içinde değer üretmeyi** de öne
 
 ### 🛠️ Teknoloji Yığınım
 
-<div align="left">
+<div align="center">
 
-**💻 Diller & Frameworkler** <br/>
-<img src="https://skillicons.dev/icons?i=python,cs,html,css,js,flutter&theme=dark" />
+<h4>💻 Diller & Frameworkler</h4>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="30"/> <b>Python</b> &emsp;
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" width="30"/> <b>C#</b> &emsp;
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="30"/> <b>HTML5</b> &emsp;
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="30"/> <b>CSS3</b> &emsp;
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="30"/> <b>JavaScript</b>
 
-**🗄️ Veritabanı & Backend** <br/>
-<img src="https://skillicons.dev/icons?i=laravel,php,mysql,dotnet&theme=dark" />
+<br/><br/>
 
-<br/>
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="30"/> <b>Laravel</b> &emsp;
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="30"/> <b>Flutter</b>
 
-**🎨 Tasarım & Araçlar** <br/>
-<img src="https://skillicons.dev/icons?i=git,github,ps,ai,pr,vscode&theme=dark" />
+<br/><br/>
+
+<h4>🗄️ Veritabanı</h4>
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30"/> <b>MySQL</b> &emsp;
+<img src="https://image.flaticon.com/icons/png/512/5968/5968364.png" width="30"/> <b>MSSQL</b>
+
+<br/><br/>
+
+<h4>🎨 Araçlar & Tasarım</h4>
+
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="30"/> <b>Git</b> &emsp;
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="30"/> <b>GitHub</b> &emsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30"/> <b>MS Office</b>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="30"/> <b>Photoshop</b> &emsp;
+<img src="https://skillicons.dev/icons?i=ai&theme=dark" width="30"/> <b>Illustrator</b>
 
 </div>
+
