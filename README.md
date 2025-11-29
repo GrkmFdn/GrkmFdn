@@ -44,14 +44,3 @@ Sadece kod yazmayı değil, **uyumlu bir ekip içinde değer üretmeyi** de öne
 
 </div>
 
----
-
-### 📊 GitHub Analizleri
-
-<div align="center">
-  <br>
-  <a href="https://github.com/GrkmFdn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrkmFdn&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&icon_color=F0F6FC&text_color=8B949E&hide_border=true&locale=tr" alt="Görkem'in GitHub İstatistikleri" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrkmFdn&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&hide_border=true&locale=tr" alt="En Çok Kullanılan Diller" />
-  </a>
-</div>
