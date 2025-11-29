@@ -44,27 +44,16 @@ Sadece kod yazmayı değil, **uyumlu bir ekip içinde değer üretmeyi** de öne
 <img src="https://skillicons.dev/icons?i=css&theme=dark" width="30"/> <b>CSS3</b> &emsp;
 <img src="https://skillicons.dev/icons?i=js&theme=dark" width="30"/> <b>JavaScript</b>
 
-<br/><br/>
-
 <img src="https://skillicons.dev/icons?i=laravel&theme=dark" width="30"/> <b>Laravel</b> &emsp;
 <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="30"/> <b>Flutter</b>
 
-<br/><br/>
-
 <h4>🗄️ Veritabanı</h4>
-
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30"/> <b>MySQL</b> &emsp;
 <img src="https://image.flaticon.com/icons/png/512/5968/5968364.png" width="30"/> <b>MSSQL</b>
 
-<br/><br/>
-
 <h4>🎨 Araçlar & Tasarım</h4>
-
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="30"/> <b>Git</b> &emsp;
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30"/> <b>GitHub</b> &emsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30"/> <b>MS Office</b>
-
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="30"/> <b>Photoshop</b> &emsp;
 <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="30"/> <b>Illustrator</b>
