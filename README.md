@@ -53,8 +53,7 @@ Sadece kod yazmayı değil, **uyumlu bir ekip içinde değer üretmeyi** de öne
 
 <h4>🎨 Araçlar & Tasarım</h4>
 <img src="https://skillicons.dev/icons?i=github&theme=dark" width="30"/> <b>GitHub</b> &emsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg" width="30"/> <b>MS Office</b> &emsp;
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/1024px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" width="30"/> <b>MS Office</b> &emsp;
 <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="30"/> <b>Photoshop</b> &emsp;
 <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="30"/> <b>Illustrator</b>
 
