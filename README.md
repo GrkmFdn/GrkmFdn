@@ -11,10 +11,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/grkmfdn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="40" alt="linkedin" />
   </a>
   <a href="mailto:grkmfdn55@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="40" alt="gmail" />
   </a>
 </div>
 
@@ -34,14 +34,19 @@ Sadece kod yazmayı değil, **uyumlu bir ekip içinde değer üretmeyi** de öne
 
 ### 🛠️ Teknoloji Yığınım
 
-Burada **"SkillIcons"** stilini kullandım. Çok daha canlı ve modern duruyor.
+<div align="left">
 
-<div align="center">
+**💻 Diller & Frameworkler** <br/>
+<img src="https://skillicons.dev/icons?i=python,cs,html,css,js,flutter&theme=dark" />
 
-  <img src="https://skillicons.dev/icons?i=python,cs,html,css,js,laravel,flutter&theme=dark" />
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,ps,ai,pr&theme=dark" />
+<br/>
+
+**🗄️ Veritabanı & Backend** <br/>
+<img src="https://skillicons.dev/icons?i=laravel,php,mysql,dotnet&theme=dark" />
+
+<br/>
+
+**🎨 Tasarım & Araçlar** <br/>
+<img src="https://skillicons.dev/icons?i=git,github,ps,ai,pr,vscode&theme=dark" />
 
 </div>
-
