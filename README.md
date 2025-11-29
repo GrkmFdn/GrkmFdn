@@ -20,7 +20,7 @@
 
 </div>
 
-<br/>
+---
 
 ### 🚀 Hakkımda ve Şu An Yaptıklarım
 
