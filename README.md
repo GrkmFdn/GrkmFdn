@@ -24,7 +24,7 @@
 
 ### 🚀 Hakkımda ve Şu An Yaptıklarım
 
-Merhaba! Yazılım dünyasında **Full Stack** bir yetkinliğe ulaşma hedefiyle ilerliyorum. Şu sıralar vaktimin çoğunu **Web ve Mobil tabanlı uygulamalar** geliştirerek geçiriyorum. Şuan da özellikle **Flutter & C# WPF Teknolojisi** üzerine yoğunlaşmış durumdayım ve bu alanlarda gelişmeyi hedefliyorum.
+Merhaba! Yazılım dünyasında **Full Stack** bir yetkinliğe ulaşma hedefiyle ilerliyorum. Vaktimin çoğunu **Web ve Mobil tabanlı uygulamalar** geliştirerek geçiriyorum. Şuanda da özellikle bu alanlarda yoğunlaşmış durumdayım ve bu alanlarda gelişmeyi hedefliyorum. 
 
 Sadece kod yazmayı değil, **uyumlu bir ekip içinde değer üretmeyi** de önemsiyorum. Birlikte büyüyebileceğimiz iş birliklerine ve projelere her zaman açığım.
 
